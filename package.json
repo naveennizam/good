@@ -9,6 +9,9 @@
     "lint": "next lint",
     "export": "next build && next export"
   },
+  "scripts": {
+     "test": "jest app.test.js"
+},
   "dependencies": {
     "cjs": "^0.0.11",
     "eslint": "8.35.0",
