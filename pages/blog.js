@@ -3,11 +3,8 @@ import React from 'react'
 import styles from '@/styles/Home.module.css'
 import * as fs from "fs"
 
-
-
 const Blog = (myBLog) => {
-
-
+  
   return (
     <>
       <div>
